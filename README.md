@@ -1,21 +1,7 @@
-# Raising the Cost of Malicious AI-Powered Image Editing
+# Photo Inpaint
 
 This repository contains the code for our recent work on safe-guarding images against manipulation by ML-powerd photo-editing models such as [stable diffusion](https://stability.ai/blog/stable-diffusion-public-release).
 
-**Raising the Cost of Malicious AI-Powered Image Editing** <br>
-_Hadi Salman\*, Alaa Khaddaj\*, Guillaume Leclerc\*, Andrew Ilyas, Aleksander Madry_ <br>
-**Paper:** https://arxiv.org/abs/2302.06588 <br>
-**Blog post:** https://gradientscience.org/photoguard <br>
-**Interactive demo:** https://huggingface.co/spaces/hadisalman/photoguard (check [below](#new-interactive-demo) for how to run it locally) <br>
-
-```bibtex
-    @article{salman2023raising,
-      title={Raising the Cost of Malicious AI-Powered Image Editing},
-      author={Salman, Hadi and Khaddaj, Alaa and Leclerc, Guillaume and Ilyas, Andrew and Madry, Aleksander},
-      journal={arXiv preprint arXiv:2302.06588},
-      year={2023}
-    }
-```
 
 <p>
 <kbd>
